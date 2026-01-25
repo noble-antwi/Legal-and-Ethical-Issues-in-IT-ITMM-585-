@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 617 629" role="img">
+  <defs>
+    <style>.b4be4f4c-bf13-4cee-b79d-456153861191{fill:#1d526b;}.a5783220-cb89-477e-b5d0-6cdb5686ced0{fill:#39251d;}.b7ef9579-2dfd-4b80-a6da-e7e1b02e22f0{fill:#8c6348;}.af8245da-e699-4a0e-96d7-181584860352,.b476232b-980c-4fbf-a48b-560b1e84a02a{opacity:0.2;}.e2993e9d-bfcb-4b87-ac80-17d76b9916df{fill:#a57453;}.a348197d-b427-426b-a391-ff7b966713d3{fill:#996d4f;}.bbb278cc-1b0a-4cf3-ba7a-3d3c5c342504{fill:#e5aea3;}.f45257a0-bb2d-42bd-8716-015b69cecbaf{fill:#443f3d;}.f06a30a0-39ce-4c8b-82ba-adfece297170{fill:#e89c89;}.a07792aa-e881-439b-a295-7bcb9dfbfc45,.ae0b7595-80a0-485a-8c15-9ebc67ef345f{fill:#fff;}.a851c63f-c369-4b1f-8197-887572c3574c{fill:#c4a29d;}.a00c13dc-79be-4c9e-8deb-c48ddee03a70{fill:#dd8f72;}.a03be36b-1909-4075-bf20-a9c7ae760b44,.f3eacc5b-3ab3-40b3-bd83-37fe2512bd60{opacity:0.3;}.ea623df4-c366-46aa-ab54-5c46c35f5464{fill:#382a20;}.efc3e540-511d-4a36-b59a-f36ef224cb93{fill:#e5e5e5;}.a07792aa-e881-439b-a295-7bcb9dfbfc45{opacity:0.47;}.b0d0c219-74dc-4aa1-90b5-5fa3e1346e6f{fill:#251d1a;}.af8245da-e699-4a0e-96d7-181584860352{fill:#f9f9f9;}.aeed1824-2470-4355-9512-03c8b8983d09{fill:none;}.aa8ffa97-2206-4420-968e-cdc5f543baea{fill:#472e26;}.f3eacc5b-3ab3-40b3-bd83-37fe2512bd60{fill:red;}.e243aa75-186c-4383-98e4-c2ddb8418cdb{fill:#2b7a99;}.f4b6ad61-49f9-49a3-ba06-c4de6a3e765b{opacity:0.1;}.ec26dc3a-4cb3-49ad-b0fa-f144d95d63f9{fill:#5e656f;}.b460c1d6-8c44-45df-ba50-7c05d87b302d{fill:#6db8c1;}</style>
+  </defs>
+  <title>avatars_avatarbuilder_elements</title>
+  <svg xmlns="http://www.w3.org/2000/svg" data-name="Background Circle" viewBox="0 0 617 629">
+    <defs style="fill: rgb(29, 82, 107);">
+      <style style="fill: rgb(29, 82, 107);">.bd9c134a-d8d8-4d64-85d9-820cc6def560{fill:#1d526b;}</style>
+    </defs>
+    <title style="fill: rgb(29, 82, 107);">avatars_avatarbuilder_elements</title>
+    <path class="bd9c134a-d8d8-4d64-85d9-820cc6def560" d="M308.5,90C184.52,90,84,190.53,84,314.5a224.47,224.47,0,1,0,448.94,0C533,190.53,432.47,90,308.5,90Z" style="fill: rgb(29, 82, 107);"></path>
+  </svg>
+  <g data-name="Hair Back" style="clip-path: url(#hairClip); -webkit-clip-path: url(#hairClip);"></g>
+  <g data-name="Ears">
+    <path data-name="ear" class="a9bedbe7-232b-4543-ae59-27b653729f84" d="M167,282s-24.69-34.11-36.3-17-13.47,63.36-5.57,72.79,19,23.81,22.05,33.41,7.68,15.75,14.64,13,14.86-29.46,14.86-29.46Z" style="fill: rgb(145, 96, 63);"></path>
+    <path data-name="no shade" class="a7e6ef99-4ba7-4e1e-b3b3-73d51ad10fab" d="M148.28,357.32s8.26-11.32,6.07-17c-1.62-4.19-6-10.79-8.16-13.92l2.62-8-16.12-33.13,9,28L134.65,329l.07.06h0s.1.07.26.21c0,0,17.23,17.37,16.26,20.15C149.36,354.7,148.28,357.32,148.28,357.32Z"></path>
+    <path data-name="ear" class="a9bedbe7-232b-4543-ae59-27b653729f84" d="M451,282s24.69-34.11,36.3-17,13.47,63.36,5.57,72.79-19,23.81-22.05,33.41-7.67,15.75-14.64,13-14.86-29.46-14.86-29.46Z" style="fill: rgb(145, 96, 63);"></path>
+    <path data-name="no shade" class="a7e6ef99-4ba7-4e1e-b3b3-73d51ad10fab" d="M469.74,357.32s-8.26-11.32-6.07-17c1.62-4.19,6-10.79,8.16-13.92l-2.62-8,16.12-33.13-9,28L483.37,329l-.07.06h0s-.1.07-.26.21c0,0-17.23,17.37-16.26,20.15C468.66,354.7,469.74,357.32,469.74,357.32Z"></path>
+  </g>
+  <g data-name="Face Main">
+    <path class="a01fa5a6-43ba-435c-a414-f0a12dc677a5" d="M446.28,156.84C400.77,81.1,331.85,79.77,309.41,81.32c-22.43-1.44-91.36-.22-136.76,75.52C141.32,209,181.36,439,199,454s71.33,50.64,89,53.85a91.54,91.54,0,0,0,20.43,1,108.61,108.61,0,0,0,21.48-1c17.68-3.21,69.32-38.92,86.89-53.85S477.61,209,446.28,156.84Z" style="fill: rgb(165, 116, 83);"></path>
+    <clipPath id="faceClipMask">
+      <path class="a01fa5a6-43ba-435c-a414-f0a12dc677a5" d="M446.28,156.84C400.77,81.1,331.85,79.77,309.41,81.32c-22.43-1.44-91.36-.22-136.76,75.52C141.32,209,181.36,439,199,454s71.33,50.64,89,53.85a91.54,91.54,0,0,0,20.43,1,108.61,108.61,0,0,0,21.48-1c17.68-3.21,69.32-38.92,86.89-53.85S477.61,209,446.28,156.84Z" style="fill: rgb(165, 116, 83);"></path>
+    </clipPath>
+  </g>
+  <g data-name="Face Shadow">
+    <g data-name="Shadow-2">
+      <path class="a7d1b2e5-10a5-404f-a2c7-4f90f4c3b0a9" d="M329.94,507.82c17.68-3.21,69.32-38.92,86.89-53.85S477.61,209,446.28,156.84C402.33,83.68,336.52,80,311.87,81.17c7.49.72,27.48,4.45,33.13,23.83,7,24,0,110,0,119s-25,19-25,36,15,100,7,101-23,3-23,14,5,32,5,32,13,60,6,81a159.05,159.05,0,0,0-5.52,20.88A110.91,110.91,0,0,0,329.94,507.82Z" style="fill: rgb(155, 106, 73);"></path>
+    </g>
+  </g>
+  <g data-name="Mouth">
+    <path class="b804a539-0e5d-4be0-b53f-aff0f13214a4" d="M351.1,397.64s-12.87,8.4-42.05,9.51c-22.91.86-51.24-15.82-51.24-15.82s17.71,9.2,43.89,11.77C326.15,405.5,351.1,397.64,351.1,397.64Z"></path>
+    <path class="e7d1abf9-7adb-4a32-9449-079d4a66ac12" d="M340.39,410.35c1.26-2-21.62,10.76-28.43,11.65s-23.73,2.07-21.32,4.1,7,7.95,21.32,3.86S335.25,418.54,340.39,410.35Z"></path>
+    <path class="e7d1abf9-7adb-4a32-9449-079d4a66ac12" d="M255,385c-4,2-10,5-8,10s5,8,5,6-3-7,0-8l6-2S259,383,255,385Z"></path>
+  </g>
+  <g data-name="Features"></g>
+  <g data-name="Nose">
+    <path class="f54485b6-7793-4edf-8cc2-ce5354a98f50" d="M282.29,345.65s-5.51,6.14-1,9.12,10.5-.34,14.3,1.63,5.51,3.67,13,3.73c7.05.05,9.81-4.1,13.82-3.95s11.41.58,12.47-1.77a5.91,5.91,0,0,0-2.59-7.57c-3-1.58-2-1.57-2-1.57s6.95,2.64,7.88,5.21.43,8.2-11.47,10.24c-6.5,1.11-12.24,2.91-18.67,2.86-7.43-.06-13.09-1.61-19.43-2.51-10.52-1.5-12.16-5.63-11.86-8.36S282.29,345.65,282.29,345.65Z"></path>
+  </g>
+  <g data-name="Eyes">
+    <path d="M253.39,286a11.45,11.45,0,1,0,11.1,11.44A11.28,11.28,0,0,0,253.39,286Z"></path>
+    <path d="M363.6,286a11.45,11.45,0,1,0,11.09,11.44A11.29,11.29,0,0,0,363.6,286Z"></path>
+  </g>
+  <g data-name="Hair Sideburns" style="clip-path: url(#hairClip); -webkit-clip-path: url(#hairClip);"></g>
+  <g data-name="Earrings"></g>
+  <g data-name="Eyebrows"></g>
+  <g data-name="Glasses"></g>
+  <g data-name="Hair Front" style="clip-path: url(#hairClip); -webkit-clip-path: url(#hairClip);"></g>
+  <g data-name="Hair Shine" style="clip-path: url(#hairClip); -webkit-clip-path: url(#hairClip);"></g>
+  <g data-name="Hair Clipping Mask" style="clip-path: url(#hairClip); -webkit-clip-path: url(#hairClip);"></g>
+  <g data-name="Accessories"></g>
+  <defs class="svg-style-cont">
+    <style data-name="Face Main" data-feature="face">.a01fa5a6-43ba-435c-a414-f0a12dc677a5{fill:#a57453;}.a7d1b2e5-10a5-404f-a2c7-4f90f4c3b0a9{fill:#996d4f;}</style>
+    <style data-name="Face Shadow" data-feature="face">.a01fa5a6-43ba-435c-a414-f0a12dc677a5{fill:#a57453;}.a7d1b2e5-10a5-404f-a2c7-4f90f4c3b0a9{fill:#996d4f;}</style>
+    <style data-name="Ears" data-feature="ears">.a9bedbe7-232b-4543-ae59-27b653729f84{fill:#8c6348;}.a7e6ef99-4ba7-4e1e-b3b3-73d51ad10fab{opacity:0.2;}.e65a69c0-70ba-46ff-80d1-0f4d47f5703c{fill:#a57453;}.f7af2517-1776-4723-a9c0-7416697c8537{fill:#996d4f;}</style>
+    <style data-name="Eyes" data-feature="eyes">.f8cb4e8b-5b01-460c-92b1-6cb8846c742f{fill:#a57453;}.a3c3198f-b0bc-46a0-8f5f-da923d5d8bb2{fill:#996d4f;}</style>
+    <style data-name="Nose" data-feature="nose">.ae480b39-3311-4257-acfb-cc7053688dda{fill:#a57453;}.ba161ad8-c0f5-429e-9221-fda6d97ea783{fill:#996d4f;}.f54485b6-7793-4edf-8cc2-ce5354a98f50{opacity:0.35;}</style>
+    <style data-name="Mouth" data-feature="mouth">.b7207fd7-5ada-4db6-8714-43dad0113ba8{fill:#a57453;}.ee5dfb9b-513b-44c0-8898-9a217c05f9a3{fill:#996d4f;}.b804a539-0e5d-4be0-b53f-aff0f13214a4{fill:#402e27;}.e7d1abf9-7adb-4a32-9449-079d4a66ac12{opacity:0.35;}</style>
+    <style data-name="Background Circle" data-feature="background">.bd9c134a-d8d8-4d64-85d9-820cc6def560{fill:#1d526b;}</style>
+  </defs>
+</svg>

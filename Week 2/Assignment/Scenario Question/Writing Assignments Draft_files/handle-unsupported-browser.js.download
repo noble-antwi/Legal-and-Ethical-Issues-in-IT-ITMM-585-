@@ -1,0 +1,44 @@
+/**
+ * Check for unsupported browsers that Packback cannot even run on
+ * (like IE 10 or below) and show a warning.
+ *
+ * NOTE: This file needs to be able to run in the oldest browsers without
+ * polyfills and should thus only use raw JS functionality. No const, avoid
+ * newer array functions, etc.
+ *
+ * Make sure that any changes to this code are tested on a variety of older
+ * browsers.
+ */
+
+/**
+ * Browsers where PBQ doesn't load (updated Aug. 2020):
+ */
+
+/** Regexes for matching any IE or just below IE 11, so we can easily switch
+    to actively not supporting IE 11 if needed */
+var InternetExplorerRegex = /MSIE |Trident\//;
+var IEBelow11Regex = /MSIE/;
+
+// Currently we only acitvely block versions of IE below 10
+var UnsupportedBrowserRegex =  IEBelow11Regex;
+
+var UnsupportedBrowserPath = '/assets/unsupported-browser.html';
+
+if (UnsupportedBrowserRegex.test(window.navigator.userAgent)) {
+    window.location.href = UnsupportedBrowserPath;
+}
+
+// NOTE: Once we don't support older browsers like IE 11 with ES5 compilation,
+// we can use this function to ensure browsers that got global errors before now
+// get redirected to the not supported page
+function checkSupportsES6() {
+    "use strict";
+
+    if (typeof Symbol == "undefined") return false;
+    try {
+        eval("class Foo {}");
+        eval("var bar = (x) => x+1");
+    } catch (e) { return false; }
+
+    return true;
+}
